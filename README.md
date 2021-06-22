@@ -1,4 +1,4 @@
-###Technologies
+#Technologies
 - Kotlin
 - Python
 - Flask
@@ -10,7 +10,7 @@
 - Google Cloud Platform - Cloud Run
 
 
-###APP Features
+#APP Features
 
 - Stocks Price Predictions
 - Sentiment Text Analyzer
