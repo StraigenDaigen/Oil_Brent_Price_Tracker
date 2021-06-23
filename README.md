@@ -56,7 +56,7 @@
 	[Linkedin](https://www.linkedin.com/in/stevenparragiraldo/)
 	[Github](https://github.com/StraigenDaigen/)
 
-#Acknowledgments
+# Acknowledgments
 - Henry Ruiz 
 	[Linkedin](https://www.linkedin.com/in/haruiz/)
 	[Github](https://github.com/haruiz/)
