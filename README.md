@@ -1,5 +1,5 @@
 
-###Technologies
+### Technologies
 - Kotlin
 - Python
 - Flask
@@ -11,7 +11,7 @@
 - Google Cloud Platform - Cloud Run
 
 
-###APP Features
+### APP Features
 
 - Stocks Price Predictions
 - Sentiment Text Analyzer
@@ -26,31 +26,28 @@
 
 
 
-**Table of Contents**
 
-
-
-#Schematic 
+# Schematic 
 ![](https://i.ibb.co/LvzqDqf/Project-Flow-Chart.png)
 
 
-#Information
+# Information
 ![](https://i.ibb.co/4mC0fkp/info-section.png)
 
 
-#Price Prediction 
+# Price Prediction 
 ![](https://i.ibb.co/Twgmk8F/prediction-section-1.png)
 ![](https://i.ibb.co/gvnr4yc/prediction-section-2.png)
 
 
-#Sentiment Text Analyzer
+# Sentiment Text Analyzer
 
 ![](https://i.ibb.co/1dhHVMf/news-sentiment-1.png)
 ![](https://i.ibb.co/L1XgrkD/news-sentiment-2.png)
 ![](https://i.ibb.co/M7CM5T1/news-sentiment-3.png)
 
 
-#Authors 
+# Authors 
 - Luis Felipe Tobar Sotelo
 	[Linkedin](http://https://www.linkedin.com/in/luis-felipe-tobar-sot/)
 	[Github](https://github.com/felipetobars/)
@@ -64,4 +61,4 @@
 	[Linkedin](https://www.linkedin.com/in/haruiz/)
 	[Github](https://github.com/haruiz/)
 
-###End
+### End
