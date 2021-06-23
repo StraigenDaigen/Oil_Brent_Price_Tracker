@@ -64,4 +64,8 @@
 	https://www.linkedin.com/in/haruiz
 	https://github.com/haruiz
 
+<<<<<<< HEAD
 ###End
+=======
+###End
+>>>>>>> 28a8d8bd3f63bde44a13a282c5721b32e5ff39f2
