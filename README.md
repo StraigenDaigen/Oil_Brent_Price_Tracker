@@ -56,6 +56,11 @@
 	[Linkedin](https://www.linkedin.com/in/stevenparragiraldo/)
 	[Github](https://github.com/StraigenDaigen/)
 
+- Natali Velandia Fajardo
+	[Linkedin](https://www.linkedin.com/in/natali-velandia-60346715a/)
+
+
+
 # Acknowledgments
 - Henry Ruiz 
 	[Linkedin](https://www.linkedin.com/in/haruiz/)
