@@ -49,7 +49,7 @@
 
 # Authors 
 - Luis Felipe Tobar Sotelo
-	[Linkedin](http://https://www.linkedin.com/in/luis-felipe-tobar-sot/)
+	[Linkedin](https://www.linkedin.com/in/luis-felipe-tobar-sot/)
 	[Github](https://github.com/felipetobars/)
 
 - Steven Parra Giraldo 
