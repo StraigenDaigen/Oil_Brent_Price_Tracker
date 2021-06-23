@@ -1,0 +1,5 @@
+poetry export -f requirements.txt --output requirements.txt
+gcloud builds submit --tag gcr.io/textclassifierapi/ai-customer-review
+gcloud run deploy --image gcr.io/textclassifierapi/ai-customer-review --platform managed
+gcloud run deploy --image IMAGE_URL --memory SIZE
+gcloud run services update SERVICE --memory SIZE
